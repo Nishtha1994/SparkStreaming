@@ -1,3 +1,3 @@
 # SparkStreaming
 
-Basic operations in Spark Steaming.
+Basic operations in Spark Streaming.
